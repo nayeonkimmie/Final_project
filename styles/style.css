@@ -1,0 +1,38 @@
+body {
+	margin: 0 auto;
+}
+
+header {
+	border-bottom: 1px solid #eee;
+	height: 80px;
+	margin-bottom: 50px;
+}
+
+.logo {
+	float: left;
+	margin: 12px 0 12px 70px;
+}
+
+.settings {
+	float: right;
+	margin: 25px 60px;
+}
+
+container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+
+.image {
+	width: 380px;
+	
+}
+
+figure {
+	margin: ;	
+}
+
+figcaption {
+	margin-top: 15px;
+}
